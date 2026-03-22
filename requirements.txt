@@ -1,0 +1,19 @@
+# FastAPI and server dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+httpx==0.26.0
+
+# Google Gemini API
+google-generativeai==0.3.2
+
+# Vector database
+chromadb==0.4.22
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+hypothesis==6.98.3
+
+# Utilities
+python-dotenv==1.0.0

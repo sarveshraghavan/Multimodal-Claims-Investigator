@@ -1,0 +1,22 @@
+TEST INSURANCE CLAIM REPORT
+
+Claim ID: TEST-001
+Date: January 15, 2024
+Claimant: John Doe
+Policy Number: POL-12345
+
+INCIDENT DESCRIPTION:
+Vehicle collision at intersection of Main St and Oak Ave.
+Front bumper damage to insured vehicle.
+Other party ran red light.
+
+ESTIMATED DAMAGES:
+- Front bumper replacement: $1,200
+- Paint work: $800
+- Total: $2,000
+
+WITNESS STATEMENTS:
+Witness confirmed other vehicle ran red light.
+
+ADJUSTER NOTES:
+Claim appears valid. Recommend approval.
